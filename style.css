@@ -1,0 +1,17 @@
+body{
+    background-image: url(img/gbr3.jpg);
+}
+.jumbotron{
+    background-image: url(img/h2-slider2-background-img.jpg);
+    background-repeat: no-repeat;
+    background-size: 1650px;
+    background-position: top;
+    color: white;
+}
+.cv-menu-warpper ul{
+    letter-spacing: 1px;
+    height: 50px;
+}
+.nav-item{
+    margin-left: 10px;
+}
